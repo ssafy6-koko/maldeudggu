@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media ( 340px <= width <= 450px) {
+  .container {
+    min-height: calc(80vw + 80vw + 140px);
+    height: 100vh;
+  }
+}
+
+@media (min-height: 835px) {
+  .container {
+    height: 100vh;
+  }
+}

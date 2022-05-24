@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  min-height: 880px;
+}
+
+.nickname {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textContainer {
+  margin: 1.5rem 0;
+}
+
+.buttonContainer {
+  margin-top: 1.5rem;
+}

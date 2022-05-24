@@ -1,0 +1,39 @@
+/* main section */
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nightModeButton {
+  align-self: flex-end;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+.participant {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin: 1rem;
+  font-size: 1.3rem;
+}
+
+/* shared images section */
+.sharedImages__container {
+  width: 95%;
+  padding: 0.5rem 0;
+  margin-bottom: 1.5rem;
+  border-radius: 1rem;
+  background-color: #FFFFFF;
+  box-shadow: 3px 3px 15px 0px #e9e1e1;
+}
+
+.nightMode {
+  background-color: rgb(58, 58, 60);
+  box-shadow: 3px 3px 15px 0 #000000;
+}

@@ -1,0 +1,38 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (min-width: 450px) {
+  .main {
+    width: 450px;
+  }
+}
+
+.nightMode {
+  background-color: rgb(28, 28, 30);
+  color: #DDDDDD;
+}
+
+/*
+.nightMode article {
+  background-color: rgb(28, 28, 30);
+  box-shadow: none;
+  color: #DDDDDD;
+}
+
+.nightMode article article {
+  background-color: rgb(28, 28, 30);
+  box-shadow: none;
+  color: #DDDDDD;
+}
+
+.nightMode article img {
+  box-shadow: none !important;
+}
+
+.nightMode article img:hover {
+  box-shadow: 3px 3px 3px 0 #000000 !important;
+} */
