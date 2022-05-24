@@ -4,7 +4,7 @@
 
 ### Next
 
-<img src="../README.assets/frontend/nextjs.png" alt="next_logo" style="float:right; width: 300px;">
+<img align = "right" src="../README.assets/frontend/nextjs.png" alt="next_logo" width="150">
 
 프론트엔드는 React 라이브러리의 SSR 을 지원하는 Next.js 를 사용하여 개발이 진행되었습니다.\
 Next.js 의 SSG (Static-Site-Generation) 은 SSR 과 다르게 요청시마다 페이지 생성을 하지 않고, 빌드하는 시기에 미리 페이지를 생성하게 됩니다.
@@ -18,7 +18,7 @@ Next.js 의 SSG (Static-Site-Generation) 은 SSR 과 다르게 요청시마다 �
 
 ### Kakao Message
 
-<img src="../README.assets/frontend/kakao_developer.png" alt="kakao_developer_logo" style="float: right; width: 300px;">
+<img align = "right" src="../README.assets/frontend/kakao_developer.png" alt="kakao_developer_logo" width="150">
 
 사용자들은 다양한 서비스들을 지인들과 내용을 공유하기 위하여 SNS 서비스를 많이 활용하고 있습니다.\
 저희 서비스도 사용자가 서비스를 공유하기 위하여 여러 방식을 제공하고 있습니다.\
@@ -31,7 +31,7 @@ Next.js 의 SSG (Static-Site-Generation) 은 SSR 과 다르게 요청시마다 �
 
 ### Firebase Storage
 
-<img src="../README.assets/frontend/firebase.png" alt="firebase_storage_logo" style="float: right; width: 300px;">
+<img align = "right" src="../README.assets/frontend/firebase.png" alt="firebase_storage_logo" width="150">
 
 사용자가 테스트 이후 본인만의 이미지를 제작하였을때, 이미지 파일을 저장하기 위한 저장소로 Firebase Storage 를 활용하였습니다.\
 Firebase Storage 에 저장된 이미지 url 을 자체 서버 DB(mySQL)에 기록하여 저희 서비스 서버의 부하를 줄이는 방식으로 관리하였습니다.
