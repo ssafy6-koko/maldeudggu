@@ -103,6 +103,5 @@
 |             [이언호](https://github.com/unho-00)             |             [최현규](https://github.com/%7B%7D)              |           [한지윤](https://github.com/yoonnotyoun)           |
 | <img src="https://github.com/unho-00.png" width=150px, height=150px> | <img src="https://avatars.githubusercontent.com/u/77451973?v=4"  width=150px, height=150px> | <img src="https://avatars.githubusercontent.com/u/87463504?v=4"  width=150px, height=150px> |
 |                           Frontend                           |                           Frontend                           |                           Frontend                           |
-| 음성 AI 개발<br>Frontend 정적 페이지 구성<br>프로젝트 자료 정리 및 문서화 | 음성 녹음 기능 및 페이지 개발<br />디자인 에셋 제작<br />프레젠테이션 |                              {}                              |
-|                             <!--                             |                     :-----------------:                      |                     :-----------------:                      |
+| 음성 AI 개발<br>Frontend 정적 페이지 구성<br>프로젝트 자료 정리 및 문서화 | 음성 녹음 기능 및 페이지 개발<br />디자인 에셋 제작<br />프레젠테이션 | 메인, 꾸미기 아이템 선택 페이지 개발<br>디자인 에셋 제작<br>기획 정리 및 프레젠테이션 제작 |
 
