@@ -95,13 +95,14 @@
 
 ## 😎팀원 소개
 
-|    [김민채](https://github.com/minchae9)    |     [이효림](https://github.com/hyorimlee)     |    [최재진](https://github.com/svstar94)    |
-| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+|            [김민채](https://github.com/minchae9)             |            [이효림](https://github.com/hyorimlee)            |            [최재진](https://github.com/svstar94)             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://github.com/minchae9.png" width=150px, height=150px> | <img src="https://github.com/hyorimlee.png" width=150px, height=150px > | <img src="https://github.com/svstar94.png" width=150px, height=150px> |
-|               팀장 & Backend               |                 Backend                  |                 Backend                  |
-| PM(Jira 관리, Wiki 작성)<br>REST API 문서 작성 및 구현<br>DB구축<br>CI/CD 보조<br>UCC 기획 및 제작 |                    CI/CD<br> REST API 문서 작성 및 구현<br>wiki작성<br> UCC 기획 및 제작                   | 요구사항 작성 <br> 음성 AI 개발 <br> 추론 API 개발 <br> 프로젝트 자료 정리 및 문서화 |
-|     [이언호](https://github.com/unho-00)     |     [최현규](https://github.com/%7B%7D)     |  [한지윤](https://github.com/yoonnotyoun)   |
-| <img src="https://github.com/unho-00.png" width=150px, height=150px> | <img src="{}"  width=150px, height=150px> | <img src="https://avatars.githubusercontent.com/u/87463504?v=4"  width=150px, height=150px> |
-|                 Frontend                 |                 Frontend                 |                 Frontend                 |
-|                    음성 AI 개발<br>Frontend 정적 페이지 구성<br>프로젝트 자료 정리 및 문서화                     |                    {}                    |                    {}                    |
-<!-- |           :-----------------:            |           :-----------------:            |           :-----------------:            | -->
+|                        팀장 & Backend                        |                           Backend                            |                           Backend                            |
+| PM(Jira 관리, Wiki 작성)<br>REST API 문서 작성 및 구현<br>DB구축<br>CI/CD 보조<br>UCC 기획 및 제작 | CI/CD<br> REST API 문서 작성 및 구현<br>wiki작성<br> UCC 기획 및 제작 | 요구사항 작성 <br> 음성 AI 개발 <br> 추론 API 개발 <br> 프로젝트 자료 정리 및 문서화 |
+|             [이언호](https://github.com/unho-00)             |             [최현규](https://github.com/%7B%7D)              |           [한지윤](https://github.com/yoonnotyoun)           |
+| <img src="https://github.com/unho-00.png" width=150px, height=150px> | <img src="https://avatars.githubusercontent.com/u/77451973?v=4"  width=150px, height=150px> | <img src="https://avatars.githubusercontent.com/u/87463504?v=4"  width=150px, height=150px> |
+|                           Frontend                           |                           Frontend                           |                           Frontend                           |
+| 음성 AI 개발<br>Frontend 정적 페이지 구성<br>프로젝트 자료 정리 및 문서화 | 음성 녹음 기능 및 페이지 개발<br />디자인 에셋 제작<br />프레젠테이션 |                              {}                              |
+|                             <!--                             |                     :-----------------:                      |                     :-----------------:                      |
+
